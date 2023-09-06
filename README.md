@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Noviath61.
-- 👀 I’m interested in
-- 🌱 I’m currently
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me: 
+@@ -0,0 +1,10 @@
+- 👋 Hi, I’m @Noviath61. Currently a sophmore majoring in CS.
+- 👀 I’m interested in computers.
+- 🌱 I’m currently learning c++.
+- 💞️ I’m looking to collaborate on anything to be honest.
+- 📫 How to reach me: by email.
 
 <!---
 Noviath61/Noviath61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
